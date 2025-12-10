@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/todo-app/', // <<< FONTOS: repo neve + perjel a végén
+  base: '/todo-app/',
 })
